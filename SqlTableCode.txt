@@ -1,0 +1,1 @@
+creat table tbl_user(id int,Name varchar(200),Gender varchar(200),Age int,Department varchar(200),Address varchar(200),Contact varchar(200),UserName varchar(200),PassWord varchar(200));
